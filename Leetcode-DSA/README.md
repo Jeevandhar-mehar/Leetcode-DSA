@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 3 | 1 | 2 | 0 |
+| 4 | 1 | 3 | 0 |
 
 ## Activity
 
@@ -16,19 +16,19 @@ Contains topicwise list of solved problems.
 | Date | Problems |
 | --- | ---: |
 | 2026-09-09 | 2 |
-| 2026-09-10 | 1 |
+| 2026-09-10 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Hash Table | 2 | 67% |
-| String | 2 | 67% |
-| Array | 1 | 33% |
-| Dynamic Programming | 1 | 33% |
-| Manacher | 1 | 33% |
-| Sliding Window | 1 | 33% |
-| Two Pointers | 1 | 33% |
+| String | 3 | 75% |
+| Hash Table | 2 | 50% |
+| Array | 1 | 25% |
+| Dynamic Programming | 1 | 25% |
+| Manacher | 1 | 25% |
+| Sliding Window | 1 | 25% |
+| Two Pointers | 1 | 25% |
 
 ## Topics
 
@@ -42,6 +42,6 @@ Contains topicwise list of solved problems.
 | [Math](Topics/math/) | 1 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
-| [String](Topics/string/) | 2 |
+| [String](Topics/string/) | 3 |
 | [Two Pointers](Topics/two-pointers/) | 1 |
 <!---LeetHub Summary End-->
