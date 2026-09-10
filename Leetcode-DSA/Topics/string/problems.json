@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-10T06:23:37.682Z",
+  "updatedAt": "2026-09-10T06:41:58.264Z",
   "problems": [
     {
       "frontendId": "3",
@@ -43,6 +43,26 @@
           "path": "Leetcode-DSA/0005-longest-palindromic-substring/0005-longest-palindromic-substring.java",
           "sha": "ff7b4f4329581bbbe1656bc43d920a84b24e86ca",
           "lastSyncedAt": "2026-09-10T06:23:37.682Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "6",
+      "title": "Zigzag Conversion",
+      "slug": "zigzag-conversion",
+      "problemName": "0006-zigzag-conversion",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/zigzag-conversion/",
+      "folderPath": "Leetcode-DSA/0006-zigzag-conversion/",
+      "readmePath": "Leetcode-DSA/0006-zigzag-conversion/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0006-zigzag-conversion.java",
+          "path": "Leetcode-DSA/0006-zigzag-conversion/0006-zigzag-conversion.java",
+          "sha": "1351b2f8125b020157c35e080b104d7d451b4716",
+          "lastSyncedAt": "2026-09-10T06:41:58.264Z"
         }
       ]
     }
