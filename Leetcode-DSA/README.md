@@ -5,36 +5,43 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 2 | 1 | 1 | 0 |
+| 3 | 1 | 2 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 1 days | 1 |
+| 2 days | 2 days | 2 |
 
 | Date | Problems |
 | --- | ---: |
 | 2026-09-09 | 2 |
+| 2026-09-10 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Hash Table | 2 | 100% |
-| Array | 1 | 50% |
-| Sliding Window | 1 | 50% |
-| String | 1 | 50% |
+| Hash Table | 2 | 67% |
+| String | 2 | 67% |
+| Array | 1 | 33% |
+| Dynamic Programming | 1 | 33% |
+| Manacher | 1 | 33% |
+| Sliding Window | 1 | 33% |
+| Two Pointers | 1 | 33% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Array](Topics/array/) | 1 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Hash Table](Topics/hash-table/) | 2 |
 | [Linked List](Topics/linked-list/) | 1 |
+| [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 1 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
-| [String](Topics/string/) | 1 |
+| [String](Topics/string/) | 2 |
+| [Two Pointers](Topics/two-pointers/) | 1 |
 <!---LeetHub Summary End-->
