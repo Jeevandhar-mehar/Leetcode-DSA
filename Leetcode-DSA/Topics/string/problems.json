@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-09T04:27:12.451Z",
+  "updatedAt": "2026-09-10T06:23:37.682Z",
   "problems": [
     {
       "frontendId": "3",
@@ -23,6 +23,26 @@
           "path": "Leetcode-DSA/0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.java",
           "sha": "4d37e2f472e14069d8ff7018c27be47db6543f78",
           "lastSyncedAt": "2026-09-09T04:27:12.451Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "5",
+      "title": "Longest Palindromic Substring",
+      "slug": "longest-palindromic-substring",
+      "problemName": "0005-longest-palindromic-substring",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-substring/",
+      "folderPath": "Leetcode-DSA/0005-longest-palindromic-substring/",
+      "readmePath": "Leetcode-DSA/0005-longest-palindromic-substring/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0005-longest-palindromic-substring.java",
+          "path": "Leetcode-DSA/0005-longest-palindromic-substring/0005-longest-palindromic-substring.java",
+          "sha": "ff7b4f4329581bbbe1656bc43d920a84b24e86ca",
+          "lastSyncedAt": "2026-09-10T06:23:37.682Z"
         }
       ]
     }
