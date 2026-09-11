@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "binary-search",
+    "name": "Binary Search"
+  },
+  "updatedAt": "2026-09-11T06:03:08.133Z",
+  "problems": [
+    {
+      "frontendId": "4",
+      "title": "Median of Two Sorted Arrays",
+      "slug": "median-of-two-sorted-arrays",
+      "problemName": "0004-median-of-two-sorted-arrays",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+      "folderPath": "Leetcode-DSA/0004-median-of-two-sorted-arrays/",
+      "readmePath": "Leetcode-DSA/0004-median-of-two-sorted-arrays/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0004-median-of-two-sorted-arrays.java",
+          "path": "Leetcode-DSA/0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.java",
+          "sha": "6a15a2c1c90cb91920e94880f087602a12289df4",
+          "lastSyncedAt": "2026-09-11T06:03:08.133Z"
+        }
+      ]
+    }
+  ]
+}
