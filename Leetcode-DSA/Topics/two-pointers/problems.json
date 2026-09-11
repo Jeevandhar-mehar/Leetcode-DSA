@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-10T06:23:37.682Z",
+  "updatedAt": "2026-09-11T06:08:59.947Z",
   "problems": [
     {
       "frontendId": "5",
@@ -22,7 +22,7 @@
           "filename": "0005-longest-palindromic-substring.java",
           "path": "Leetcode-DSA/0005-longest-palindromic-substring/0005-longest-palindromic-substring.java",
           "sha": "ff7b4f4329581bbbe1656bc43d920a84b24e86ca",
-          "lastSyncedAt": "2026-09-10T06:23:37.682Z"
+          "lastSyncedAt": "2026-09-11T06:08:59.947Z"
         }
       ]
     }
