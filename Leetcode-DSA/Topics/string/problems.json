@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-11T06:08:59.947Z",
+  "updatedAt": "2026-09-11T07:12:26.296Z",
   "problems": [
     {
       "frontendId": "3",
@@ -63,6 +63,26 @@
           "path": "Leetcode-DSA/0006-zigzag-conversion/0006-zigzag-conversion.java",
           "sha": "1351b2f8125b020157c35e080b104d7d451b4716",
           "lastSyncedAt": "2026-09-10T06:41:58.264Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "8",
+      "title": "String to Integer (atoi)",
+      "slug": "string-to-integer-atoi",
+      "problemName": "0008-string-to-integer-atoi",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/string-to-integer-atoi/",
+      "folderPath": "Leetcode-DSA/0008-string-to-integer-atoi/",
+      "readmePath": "Leetcode-DSA/0008-string-to-integer-atoi/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0008-string-to-integer-atoi.java",
+          "path": "Leetcode-DSA/0008-string-to-integer-atoi/0008-string-to-integer-atoi.java",
+          "sha": "b3ee989dae612ba0da13144c1bc2bd45897d2bc0",
+          "lastSyncedAt": "2026-09-11T07:12:26.296Z"
         }
       ]
     }
