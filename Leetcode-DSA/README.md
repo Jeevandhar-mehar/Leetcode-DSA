@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 7 | 1 | 5 | 1 |
+| 8 | 2 | 5 | 1 |
 
 ## Activity
 
@@ -17,22 +17,22 @@ Contains topicwise list of solved problems.
 | --- | ---: |
 | 2026-09-09 | 2 |
 | 2026-09-10 | 3 |
-| 2026-09-11 | 2 |
+| 2026-09-11 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 4 | 57% |
-| Array | 2 | 29% |
-| Hash Table | 2 | 29% |
-| Binary Search | 1 | 14% |
-| Divide and Conquer | 1 | 14% |
-| Dynamic Programming | 1 | 14% |
-| Manacher | 1 | 14% |
-| Math | 1 | 14% |
-| Sliding Window | 1 | 14% |
-| Two Pointers | 1 | 14% |
+| String | 4 | 50% |
+| Array | 2 | 25% |
+| Hash Table | 2 | 25% |
+| Math | 2 | 25% |
+| Binary Search | 1 | 13% |
+| Divide and Conquer | 1 | 13% |
+| Dynamic Programming | 1 | 13% |
+| Manacher | 1 | 13% |
+| Sliding Window | 1 | 13% |
+| Two Pointers | 1 | 13% |
 
 ## Topics
 
@@ -45,7 +45,7 @@ Contains topicwise list of solved problems.
 | [Hash Table](Topics/hash-table/) | 2 |
 | [Linked List](Topics/linked-list/) | 1 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 2 |
+| [Math](Topics/math/) | 3 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [String](Topics/string/) | 4 |
