@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-12T07:53:25.543Z",
+  "updatedAt": "2026-09-12T08:37:11.596Z",
   "problems": [
     {
       "frontendId": "5",
@@ -43,6 +43,26 @@
           "path": "Leetcode-DSA/0011-container-with-most-water/0011-container-with-most-water.java",
           "sha": "5c060b6e3306d04e1cf597db4beb123aa30cceed",
           "lastSyncedAt": "2026-09-12T07:53:25.543Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "15",
+      "title": "3Sum",
+      "slug": "3sum",
+      "problemName": "0015-3sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum/",
+      "folderPath": "Leetcode-DSA/0015-3sum/",
+      "readmePath": "Leetcode-DSA/0015-3sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0015-3sum.java",
+          "path": "Leetcode-DSA/0015-3sum/0015-3sum.java",
+          "sha": "90eecc73272fe2c51f084e3c856a9feaa2988816",
+          "lastSyncedAt": "2026-09-12T08:37:11.596Z"
         }
       ]
     }
