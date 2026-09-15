@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-15T06:26:47.270Z",
+  "updatedAt": "2026-09-15T06:31:04.660Z",
   "problems": [
     {
       "frontendId": "1",
@@ -163,6 +163,26 @@
           "path": "Leetcode-DSA/0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.java",
           "sha": "6ccdcf4ee1e4b9fc3bd78b4ae6d25f653766af0d",
           "lastSyncedAt": "2026-09-15T06:26:47.270Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "27",
+      "title": "Remove Element",
+      "slug": "remove-element",
+      "problemName": "0027-remove-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-element/",
+      "folderPath": "Leetcode-DSA/0027-remove-element/",
+      "readmePath": "Leetcode-DSA/0027-remove-element/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0027-remove-element.java",
+          "path": "Leetcode-DSA/0027-remove-element/0027-remove-element.java",
+          "sha": "0939918c830331f782214f1562c2463f4e3efc43",
+          "lastSyncedAt": "2026-09-15T06:31:04.660Z"
         }
       ]
     }
