@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-16T17:54:20.356Z",
+  "updatedAt": "2026-09-16T17:54:47.037Z",
   "problems": [
     {
       "frontendId": "15",
@@ -42,7 +42,7 @@
           "filename": "0016-3sum-closest.java",
           "path": "Leetcode-DSA/0016-3sum-closest/0016-3sum-closest.java",
           "sha": "5326e2000ae93cc2e8b5611f29bad1e79e7725ab",
-          "lastSyncedAt": "2026-09-13T07:20:45.345Z"
+          "lastSyncedAt": "2026-09-16T17:54:47.037Z"
         }
       ]
     },
