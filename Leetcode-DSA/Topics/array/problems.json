@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-16T17:54:47.037Z",
+  "updatedAt": "2026-09-16T17:55:14.953Z",
   "problems": [
     {
       "frontendId": "1",
@@ -82,7 +82,7 @@
           "filename": "0014-longest-common-prefix.java",
           "path": "Leetcode-DSA/0014-longest-common-prefix/0014-longest-common-prefix.java",
           "sha": "aa3fcb50ab0d03af867ad0b9213c21b732bf6307",
-          "lastSyncedAt": "2026-09-12T08:15:46.459Z"
+          "lastSyncedAt": "2026-09-16T17:55:14.953Z"
         }
       ]
     },
