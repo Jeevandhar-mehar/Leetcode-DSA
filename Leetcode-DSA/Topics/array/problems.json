@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-15T06:31:04.660Z",
+  "updatedAt": "2026-09-16T17:53:58.862Z",
   "problems": [
     {
       "frontendId": "1",
@@ -182,7 +182,7 @@
           "filename": "0027-remove-element.java",
           "path": "Leetcode-DSA/0027-remove-element/0027-remove-element.java",
           "sha": "0939918c830331f782214f1562c2463f4e3efc43",
-          "lastSyncedAt": "2026-09-15T06:31:04.660Z"
+          "lastSyncedAt": "2026-09-16T17:53:58.862Z"
         }
       ]
     }
