@@ -4,7 +4,7 @@
     "slug": "trie",
     "name": "Trie"
   },
-  "updatedAt": "2026-09-16T17:55:14.953Z",
+  "updatedAt": "2026-09-16T17:55:25.921Z",
   "problems": [
     {
       "frontendId": "14",
@@ -22,7 +22,7 @@
           "filename": "0014-longest-common-prefix.java",
           "path": "Leetcode-DSA/0014-longest-common-prefix/0014-longest-common-prefix.java",
           "sha": "aa3fcb50ab0d03af867ad0b9213c21b732bf6307",
-          "lastSyncedAt": "2026-09-16T17:55:14.953Z"
+          "lastSyncedAt": "2026-09-16T17:55:25.921Z"
         }
       ]
     }
