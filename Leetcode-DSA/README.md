@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 18 | 6 | 11 | 1 |
+| 19 | 6 | 12 | 1 |
 
 ## Activity
 
@@ -22,29 +22,29 @@ Contains topicwise list of solved problems.
 | 2026-09-13 | 1 |
 | 2026-09-15 | 3 |
 | 2026-09-17 | 2 |
-| 2026-09-18 | 1 |
+| 2026-09-18 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 12 | 67% |
-| Two Pointers | 8 | 44% |
-| String | 5 | 28% |
-| Binary Search | 3 | 17% |
-| Sorting | 3 | 17% |
+| Array | 13 | 68% |
+| Two Pointers | 8 | 42% |
+| String | 5 | 26% |
+| Binary Search | 4 | 21% |
+| Sorting | 3 | 16% |
 | Hash Table | 2 | 11% |
 | Math | 2 | 11% |
-| Divide and Conquer | 1 | 6% |
-| Dynamic Programming | 1 | 6% |
-| Greedy | 1 | 6% |
+| Divide and Conquer | 1 | 5% |
+| Dynamic Programming | 1 | 5% |
+| Greedy | 1 | 5% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 12 |
-| [Binary Search](Topics/binary-search/) | 3 |
+| [Array](Topics/array/) | 13 |
+| [Binary Search](Topics/binary-search/) | 4 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Greedy](Topics/greedy/) | 1 |
