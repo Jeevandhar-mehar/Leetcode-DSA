@@ -52,6 +52,7 @@ Contains topicwise list of solved problems.
 | [Linked List](Topics/linked-list/) | 1 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 3 |
+| [Matrix](Topics/matrix/) | 1 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 3 |
