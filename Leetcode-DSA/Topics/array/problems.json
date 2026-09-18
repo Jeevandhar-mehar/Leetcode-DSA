@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-18T16:54:16.872Z",
+  "updatedAt": "2026-09-18T16:54:53.199Z",
   "problems": [
     {
       "frontendId": "1",
@@ -263,6 +263,26 @@
           "path": "Leetcode-DSA/0035-search-insert-position/0035-search-insert-position.java",
           "sha": "2ca04c037b5973e3a0aa5d0018d1c51d24b255cd",
           "lastSyncedAt": "2026-09-18T16:54:00.781Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "36",
+      "title": "Valid Sudoku",
+      "slug": "valid-sudoku",
+      "problemName": "0036-valid-sudoku",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-sudoku/",
+      "folderPath": "Leetcode-DSA/0036-valid-sudoku/",
+      "readmePath": "Leetcode-DSA/0036-valid-sudoku/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0036-valid-sudoku.java",
+          "path": "Leetcode-DSA/0036-valid-sudoku/0036-valid-sudoku.java",
+          "sha": "6ef6240c8164e811fa4cef7804d50558008fe96c",
+          "lastSyncedAt": "2026-09-18T16:54:53.199Z"
         }
       ]
     }
