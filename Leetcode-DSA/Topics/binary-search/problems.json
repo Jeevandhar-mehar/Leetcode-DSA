@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-18T16:54:00.781Z",
+  "updatedAt": "2026-09-18T16:54:16.872Z",
   "problems": [
     {
       "frontendId": "4",
@@ -43,6 +43,26 @@
           "path": "Leetcode-DSA/0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.java",
           "sha": "e95a5352928baefd395415ec04085e5b0361dfa3",
           "lastSyncedAt": "2026-09-17T08:20:15.254Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "34",
+      "title": "Find First and Last Position of Element in Sorted Array",
+      "slug": "find-first-and-last-position-of-element-in-sorted-array",
+      "problemName": "0034-find-first-and-last-position-of-element-in-sorted-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+      "folderPath": "Leetcode-DSA/0034-find-first-and-last-position-of-element-in-sorted-array/",
+      "readmePath": "Leetcode-DSA/0034-find-first-and-last-position-of-element-in-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0034-find-first-and-last-position-of-element-in-sorted-array.java",
+          "path": "Leetcode-DSA/0034-find-first-and-last-position-of-element-in-sorted-array/0034-find-first-and-last-position-of-element-in-sorted-array.java",
+          "sha": "3bdf3dcb7d7f91d3691f399858514c2656486b96",
+          "lastSyncedAt": "2026-09-18T16:54:16.872Z"
         }
       ]
     },
