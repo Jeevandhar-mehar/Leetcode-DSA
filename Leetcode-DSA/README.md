@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 17 | 5 | 11 | 1 |
+| 18 | 6 | 11 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 5 days | 7 |
+| 2 days | 5 days | 8 |
 
 | Date | Problems |
 | --- | ---: |
@@ -22,18 +22,19 @@ Contains topicwise list of solved problems.
 | 2026-09-13 | 1 |
 | 2026-09-15 | 3 |
 | 2026-09-17 | 2 |
+| 2026-09-18 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 11 | 65% |
-| Two Pointers | 8 | 47% |
-| String | 5 | 29% |
-| Sorting | 3 | 18% |
-| Binary Search | 2 | 12% |
-| Hash Table | 2 | 12% |
-| Math | 2 | 12% |
+| Array | 12 | 67% |
+| Two Pointers | 8 | 44% |
+| String | 5 | 28% |
+| Binary Search | 3 | 17% |
+| Sorting | 3 | 17% |
+| Hash Table | 2 | 11% |
+| Math | 2 | 11% |
 | Divide and Conquer | 1 | 6% |
 | Dynamic Programming | 1 | 6% |
 | Greedy | 1 | 6% |
@@ -42,8 +43,8 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 11 |
-| [Binary Search](Topics/binary-search/) | 2 |
+| [Array](Topics/array/) | 12 |
+| [Binary Search](Topics/binary-search/) | 3 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Greedy](Topics/greedy/) | 1 |
