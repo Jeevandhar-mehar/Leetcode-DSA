@@ -4,7 +4,7 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-09-19T17:45:36.136Z",
+  "updatedAt": "2026-09-19T17:46:06.353Z",
   "problems": [
     {
       "frontendId": "37",
@@ -42,7 +42,7 @@
           "filename": "0039-combination-sum.java",
           "path": "Leetcode-DSA/0039-combination-sum/0039-combination-sum.java",
           "sha": "8be2169535595c491703f9129c2e5c123599ff46",
-          "lastSyncedAt": "2026-09-19T17:45:36.136Z"
+          "lastSyncedAt": "2026-09-19T17:46:06.353Z"
         }
       ]
     }
