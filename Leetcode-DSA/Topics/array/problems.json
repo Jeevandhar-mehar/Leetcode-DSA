@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-18T16:58:59.067Z",
+  "updatedAt": "2026-09-19T17:39:59.535Z",
   "problems": [
     {
       "frontendId": "1",
@@ -283,6 +283,26 @@
           "path": "Leetcode-DSA/0036-valid-sudoku/0036-valid-sudoku.java",
           "sha": "6ef6240c8164e811fa4cef7804d50558008fe96c",
           "lastSyncedAt": "2026-09-18T16:58:59.067Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "37",
+      "title": "Sudoku Solver",
+      "slug": "sudoku-solver",
+      "problemName": "0037-sudoku-solver",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sudoku-solver/",
+      "folderPath": "Leetcode-DSA/0037-sudoku-solver/",
+      "readmePath": "Leetcode-DSA/0037-sudoku-solver/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0037-sudoku-solver.java",
+          "path": "Leetcode-DSA/0037-sudoku-solver/0037-sudoku-solver.java",
+          "sha": "18ffa9b4e7c0de0ca42ca6ac6a0538ec294b929c",
+          "lastSyncedAt": "2026-09-19T17:39:59.535Z"
         }
       ]
     }
