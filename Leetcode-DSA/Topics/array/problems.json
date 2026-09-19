@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-19T17:46:06.353Z",
+  "updatedAt": "2026-09-19T17:47:27.745Z",
   "problems": [
     {
       "frontendId": "1",
@@ -323,6 +323,26 @@
           "path": "Leetcode-DSA/0039-combination-sum/0039-combination-sum.java",
           "sha": "8be2169535595c491703f9129c2e5c123599ff46",
           "lastSyncedAt": "2026-09-19T17:46:06.353Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "40",
+      "title": "Combination Sum II",
+      "slug": "combination-sum-ii",
+      "problemName": "0040-combination-sum-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/combination-sum-ii/",
+      "folderPath": "Leetcode-DSA/0040-combination-sum-ii/",
+      "readmePath": "Leetcode-DSA/0040-combination-sum-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0040-combination-sum-ii.java",
+          "path": "Leetcode-DSA/0040-combination-sum-ii/0040-combination-sum-ii.java",
+          "sha": "8e1e7c995fe1802f9e571506999959bf4da0b95a",
+          "lastSyncedAt": "2026-09-19T17:47:27.745Z"
         }
       ]
     }
