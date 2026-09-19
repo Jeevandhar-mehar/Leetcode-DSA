@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 22 | 6 | 14 | 2 |
+| 23 | 6 | 15 | 2 |
 
 ## Activity
 
@@ -23,30 +23,30 @@ Contains topicwise list of solved problems.
 | 2026-09-15 | 3 |
 | 2026-09-17 | 2 |
 | 2026-09-18 | 3 |
-| 2026-09-19 | 2 |
+| 2026-09-19 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 16 | 73% |
-| Two Pointers | 8 | 36% |
-| String | 5 | 23% |
-| Binary Search | 4 | 18% |
-| Hash Table | 4 | 18% |
-| Sorting | 3 | 14% |
-| Backtracking | 2 | 9% |
+| Array | 17 | 74% |
+| Two Pointers | 8 | 35% |
+| String | 5 | 22% |
+| Binary Search | 4 | 17% |
+| Hash Table | 4 | 17% |
+| Backtracking | 3 | 13% |
+| Sorting | 3 | 13% |
 | Math | 2 | 9% |
 | Matrix | 2 | 9% |
-| Algorithm X | 1 | 5% |
+| Algorithm X | 1 | 4% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 16 |
-| [Backtracking](Topics/backtracking/) | 2 |
+| [Array](Topics/array/) | 17 |
+| [Backtracking](Topics/backtracking/) | 3 |
 | [Binary Search](Topics/binary-search/) | 4 |
 | [Dancing Links](Topics/dancing-links/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
