@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "stack",
+    "name": "Stack"
+  },
+  "updatedAt": "2026-09-21T17:18:01.303Z",
+  "problems": [
+    {
+      "frontendId": "42",
+      "title": "Trapping Rain Water",
+      "slug": "trapping-rain-water",
+      "problemName": "0042-trapping-rain-water",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water/",
+      "folderPath": "Leetcode-DSA/0042-trapping-rain-water/",
+      "readmePath": "Leetcode-DSA/0042-trapping-rain-water/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0042-trapping-rain-water.java",
+          "path": "Leetcode-DSA/0042-trapping-rain-water/0042-trapping-rain-water.java",
+          "sha": "e44ab81467f662c6b713d6ab8c4d92fac93dc6c7",
+          "lastSyncedAt": "2026-09-21T17:18:01.303Z"
+        }
+      ]
+    }
+  ]
+}
