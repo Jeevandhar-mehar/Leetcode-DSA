@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-21T17:20:47.664Z",
+  "updatedAt": "2026-09-21T17:21:05.145Z",
   "problems": [
     {
       "frontendId": "1",
@@ -402,7 +402,7 @@
           "filename": "0045-jump-game-ii.java",
           "path": "Leetcode-DSA/0045-jump-game-ii/0045-jump-game-ii.java",
           "sha": "9abbf6019ee6298aed8b1e1bb58965c63347b0ea",
-          "lastSyncedAt": "2026-09-21T17:20:47.664Z"
+          "lastSyncedAt": "2026-09-21T17:21:05.145Z"
         }
       ]
     }
