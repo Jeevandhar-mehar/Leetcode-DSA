@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-21T17:18:01.303Z",
+  "updatedAt": "2026-09-21T17:18:41.246Z",
   "problems": [
     {
       "frontendId": "1",
@@ -343,6 +343,26 @@
           "path": "Leetcode-DSA/0040-combination-sum-ii/0040-combination-sum-ii.java",
           "sha": "8e1e7c995fe1802f9e571506999959bf4da0b95a",
           "lastSyncedAt": "2026-09-19T17:47:27.745Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "41",
+      "title": "First Missing Positive",
+      "slug": "first-missing-positive",
+      "problemName": "0041-first-missing-positive",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/first-missing-positive/",
+      "folderPath": "Leetcode-DSA/0041-first-missing-positive/",
+      "readmePath": "Leetcode-DSA/0041-first-missing-positive/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0041-first-missing-positive.java",
+          "path": "Leetcode-DSA/0041-first-missing-positive/0041-first-missing-positive.java",
+          "sha": "849c874fbd8d28ad06c89baddcd577b7f964633b",
+          "lastSyncedAt": "2026-09-21T17:18:41.246Z"
         }
       ]
     },
