@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-21T17:21:05.145Z",
+  "updatedAt": "2026-09-22T17:59:23.952Z",
   "problems": [
     {
       "frontendId": "1",
@@ -362,7 +362,7 @@
           "filename": "0041-first-missing-positive.java",
           "path": "Leetcode-DSA/0041-first-missing-positive/0041-first-missing-positive.java",
           "sha": "849c874fbd8d28ad06c89baddcd577b7f964633b",
-          "lastSyncedAt": "2026-09-21T17:18:41.246Z"
+          "lastSyncedAt": "2026-09-22T17:59:23.952Z"
         }
       ]
     },
