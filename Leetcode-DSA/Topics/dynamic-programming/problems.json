@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-22T17:59:53.875Z",
+  "updatedAt": "2026-09-22T18:00:05.790Z",
   "problems": [
     {
       "frontendId": "5",
@@ -62,7 +62,7 @@
           "filename": "0045-jump-game-ii.java",
           "path": "Leetcode-DSA/0045-jump-game-ii/0045-jump-game-ii.java",
           "sha": "9abbf6019ee6298aed8b1e1bb58965c63347b0ea",
-          "lastSyncedAt": "2026-09-21T17:21:05.145Z"
+          "lastSyncedAt": "2026-09-22T18:00:05.790Z"
         }
       ]
     }
