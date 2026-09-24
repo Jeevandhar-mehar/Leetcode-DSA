@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-24T06:26:36.371Z",
+  "updatedAt": "2026-09-24T07:21:48.952Z",
   "problems": [
     {
       "frontendId": "15",
@@ -83,6 +83,26 @@
           "path": "Leetcode-DSA/0047-permutations-ii/0047-permutations-ii.java",
           "sha": "b4440364cdb47d6163c3d9ed5db0b55e76bfb331",
           "lastSyncedAt": "2026-09-24T06:26:36.371Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "49",
+      "title": "Group Anagrams",
+      "slug": "group-anagrams",
+      "problemName": "0049-group-anagrams",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/group-anagrams/",
+      "folderPath": "Leetcode-DSA/0049-group-anagrams/",
+      "readmePath": "Leetcode-DSA/0049-group-anagrams/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0049-group-anagrams.java",
+          "path": "Leetcode-DSA/0049-group-anagrams/0049-group-anagrams.java",
+          "sha": "1d854c04edfe95c997d2958c4a461226ac1cb2d6",
+          "lastSyncedAt": "2026-09-24T07:21:48.952Z"
         }
       ]
     }
