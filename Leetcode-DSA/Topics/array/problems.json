@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-22T18:00:05.790Z",
+  "updatedAt": "2026-09-24T06:14:04.059Z",
   "problems": [
     {
       "frontendId": "1",
@@ -403,6 +403,26 @@
           "path": "Leetcode-DSA/0045-jump-game-ii/0045-jump-game-ii.java",
           "sha": "9abbf6019ee6298aed8b1e1bb58965c63347b0ea",
           "lastSyncedAt": "2026-09-22T18:00:05.790Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "46",
+      "title": "Permutations",
+      "slug": "permutations",
+      "problemName": "0046-permutations",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/permutations/",
+      "folderPath": "Leetcode-DSA/0046-permutations/",
+      "readmePath": "Leetcode-DSA/0046-permutations/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0046-permutations.java",
+          "path": "Leetcode-DSA/0046-permutations/0046-permutations.java",
+          "sha": "2a11211a9cbc38fc09a9d9cffada1e0fa5a43532",
+          "lastSyncedAt": "2026-09-24T06:14:04.059Z"
         }
       ]
     }
