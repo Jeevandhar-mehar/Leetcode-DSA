@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 29 | 6 | 19 | 4 |
+| 30 | 6 | 20 | 4 |
 
 ## Activity
 
@@ -25,19 +25,19 @@ Contains topicwise list of solved problems.
 | 2026-09-18 | 3 |
 | 2026-09-19 | 3 |
 | 2026-09-21 | 3 |
-| 2026-09-24 | 3 |
+| 2026-09-24 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 23 | 79% |
-| Two Pointers | 9 | 31% |
+| Array | 24 | 80% |
+| Two Pointers | 9 | 30% |
+| Hash Table | 6 | 20% |
+| String | 6 | 20% |
 | Backtracking | 5 | 17% |
-| Hash Table | 5 | 17% |
-| String | 5 | 17% |
-| Binary Search | 4 | 14% |
-| Sorting | 4 | 14% |
+| Sorting | 5 | 17% |
+| Binary Search | 4 | 13% |
 | Dynamic Programming | 3 | 10% |
 | Math | 3 | 10% |
 | Matrix | 3 | 10% |
@@ -47,14 +47,14 @@ Contains topicwise list of solved problems.
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 23 |
+| [Array](Topics/array/) | 24 |
 | [Backtracking](Topics/backtracking/) | 5 |
 | [Binary Search](Topics/binary-search/) | 4 |
 | [Dancing Links](Topics/dancing-links/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Greedy](Topics/greedy/) | 2 |
-| [Hash Table](Topics/hash-table/) | 5 |
+| [Hash Table](Topics/hash-table/) | 6 |
 | [Linked List](Topics/linked-list/) | 1 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 4 |
@@ -62,9 +62,9 @@ Contains topicwise list of solved problems.
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
-| [Sorting](Topics/sorting/) | 4 |
+| [Sorting](Topics/sorting/) | 5 |
 | [Stack](Topics/stack/) | 1 |
-| [String](Topics/string/) | 5 |
+| [String](Topics/string/) | 6 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 9 |
 <!---LeetHub Summary End-->
