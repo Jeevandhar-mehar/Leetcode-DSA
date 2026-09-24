@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 28 | 6 | 18 | 4 |
+| 29 | 6 | 19 | 4 |
 
 ## Activity
 
@@ -25,29 +25,29 @@ Contains topicwise list of solved problems.
 | 2026-09-18 | 3 |
 | 2026-09-19 | 3 |
 | 2026-09-21 | 3 |
-| 2026-09-24 | 2 |
+| 2026-09-24 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 22 | 79% |
-| Two Pointers | 9 | 32% |
-| Backtracking | 5 | 18% |
-| Hash Table | 5 | 18% |
-| String | 5 | 18% |
+| Array | 23 | 79% |
+| Two Pointers | 9 | 31% |
+| Backtracking | 5 | 17% |
+| Hash Table | 5 | 17% |
+| String | 5 | 17% |
 | Binary Search | 4 | 14% |
 | Sorting | 4 | 14% |
-| Dynamic Programming | 3 | 11% |
-| Greedy | 2 | 7% |
-| Math | 2 | 7% |
+| Dynamic Programming | 3 | 10% |
+| Math | 3 | 10% |
+| Matrix | 3 | 10% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 22 |
+| [Array](Topics/array/) | 23 |
 | [Backtracking](Topics/backtracking/) | 5 |
 | [Binary Search](Topics/binary-search/) | 4 |
 | [Dancing Links](Topics/dancing-links/) | 1 |
@@ -57,8 +57,8 @@ Contains topicwise list of solved problems.
 | [Hash Table](Topics/hash-table/) | 5 |
 | [Linked List](Topics/linked-list/) | 1 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 3 |
-| [Matrix](Topics/matrix/) | 2 |
+| [Math](Topics/math/) | 4 |
+| [Matrix](Topics/matrix/) | 3 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
