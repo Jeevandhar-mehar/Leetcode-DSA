@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-11T08:35:32.163Z",
+  "updatedAt": "2026-09-24T07:17:56.982Z",
   "problems": [
     {
       "frontendId": "2",
@@ -63,6 +63,26 @@
           "path": "Leetcode-DSA/0009-palindrome-number/0009-palindrome-number.java",
           "sha": "5556424e47fa491c26ad6390627a771e0e788bd2",
           "lastSyncedAt": "2026-09-11T08:35:32.163Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "48",
+      "title": "Rotate Image",
+      "slug": "rotate-image",
+      "problemName": "0048-rotate-image",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-image/",
+      "folderPath": "Leetcode-DSA/0048-rotate-image/",
+      "readmePath": "Leetcode-DSA/0048-rotate-image/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0048-rotate-image.java",
+          "path": "Leetcode-DSA/0048-rotate-image/0048-rotate-image.java",
+          "sha": "7dbc36fa93f061eb38747533693232c00523e0a9",
+          "lastSyncedAt": "2026-09-24T07:17:56.982Z"
         }
       ]
     }
